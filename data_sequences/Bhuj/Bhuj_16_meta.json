@@ -1,0 +1,15 @@
+{
+  "video": "Bhuj/Bhuj_16.mp4",
+  "T": 128,
+  "stride": 64,
+  "starts": [
+    0,
+    64,
+    128,
+    192,
+    256,
+    320
+  ],
+  "fps": 30.0,
+  "n_sequences": 6
+}

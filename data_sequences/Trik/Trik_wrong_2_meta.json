@@ -1,0 +1,10 @@
+{
+  "video": "Trik/Trik_wrong_2.mp4",
+  "T": 128,
+  "stride": 64,
+  "starts": [
+    0
+  ],
+  "fps": 30.0,
+  "n_sequences": 1
+}

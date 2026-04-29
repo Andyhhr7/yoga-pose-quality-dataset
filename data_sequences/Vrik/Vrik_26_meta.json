@@ -1,0 +1,14 @@
+{
+  "video": "Vrik/Vrik_26.mp4",
+  "T": 128,
+  "stride": 64,
+  "starts": [
+    0,
+    64,
+    128,
+    192,
+    256
+  ],
+  "fps": 30.0,
+  "n_sequences": 5
+}

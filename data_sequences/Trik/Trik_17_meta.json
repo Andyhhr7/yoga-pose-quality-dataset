@@ -1,0 +1,13 @@
+{
+  "video": "Trik/Trik_17.mp4",
+  "T": 128,
+  "stride": 64,
+  "starts": [
+    0,
+    64,
+    128,
+    192
+  ],
+  "fps": 30.0,
+  "n_sequences": 4
+}
